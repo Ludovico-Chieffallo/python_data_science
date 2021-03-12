@@ -9,17 +9,20 @@ c=a+b
 d=b/a
 
 #Iniziamo a stampare i risultati e per stampare usiamo l'opzione #print
-c #scrivendo solo "c" possiamo vedere la variabile ma non è un modo corretto per stampare/ avremo come risultato 15 in questo caso
+
+c         #scrivendo solo "c" possiamo vedere la variabile ma non è un modo corretto per stampare/ avremo come risultato 15 in questo caso
 15
-print(c) #modo corretto per stampare 
+print(c)  #modo corretto per stampare 
 15
 print (d) # in questo caso facciamo una divisione
 0.5
 
 #perchè è meglio utilizzare "print()"? vediamo un esempio
+
 c
 d
-0.5 #il risultato che avremo sarà solo uno, quindi solo una variabile
+0.5   #il risultato che avremo sarà solo uno, quindi solo una variabile
+
 #mentre se usiamo print() avremo
 print(c)
 print(d)
@@ -29,7 +32,6 @@ print(d)
 import math #in questo modo abbiamo importato il modulo matematico (math)
 math.sqrt(a) @questa è la funzione per fare la radice quadrata (in questo caso di a)
 3.1622776601683795
-
 round(math.sqrt(a)) #usiamo per arrotondare il valore
 3
 
