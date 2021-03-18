@@ -21,10 +21,11 @@ while true:
                  #SE AVETE FATTO PARTIRE IL CODICE USARE CTRL+C
 
   #Vediamo un esempio pratico
-  counter=0             #questo è un indicatore che possiamo chiamare come vogliamo anche "pippo=1, pippo=2, vercingetorige=30"
-  while counter<12:     #stiamo comunicando che se il valore che abbiamo assegnato è minore di 12 il codice può continuare, in questo caso può continuare
-    print(counter)
-    counter=counter+1   #se il ciclo sarà vero aggiunierà sempre a counter (o nome assegnato) +1 fino alla condizione assegnata (cioè <12)
+counter=0             #questo è un indicatore che possiamo chiamare come vogliamo anche "pippo=1, pippo=2, vercingetorige=30"
+while counter<12:     #stiamo comunicando che se il valore che abbiamo assegnato è minore di 12 il codice può continuare, in questo caso può continuare
+   print(counter)
+   counter=counter+1  #se il ciclo sarà vero aggiunierà sempre a counter (o nome assegnato) +1 fino alla condizione assegnata (cioè <12)
+print ("hello")       #quando la condizione diventerà falsa quindi quando counter sarà "=" o ">" di 12 allora stamperà "hello"
 0
 1
 2
@@ -36,7 +37,9 @@ while true:
 8
 9
 10
-11   #avremo questo risultato come ci aspettavamo
+11   
+hello #avremo questo risultato come ci aspettavamo
+
 
 
 
