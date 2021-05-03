@@ -51,32 +51,29 @@ for numero in range(11,0,-1):
 #POSSIAMO ANCHE STAMPARE QUALCOSA DI DIVERSO DA NUMERI
 for numero in range(5):
     print("hello", numero) #Qui stiamo dicendo di stampare hello(questa volta con "") e poi di restituirci il valore di numero (ricordo che è possibile usare qualsiasi nome) e il valore sarà definito da range che sarà 5 infatti:
-    hello 0
-hello 1
-hello 2
-hello 3
-hello 4 #questo è il risultato
+#hello 0
+#hello 1
+#hello 2
+#hello 3
+#hello 4 #questo è il risultato
 
 #POSSIAMO ANCHE AGGIUNGERE ALTRE LINEE
 for numero in range(5):
     print("hello", numero)
     print("-seconda linea")
     print("-terza linea")
-hello 0
--seconda linea
--terza linea
-hello 1
--seconda linea
--terza linea
-hello 2
--seconda linea
--terza linea
-hello 3
--seconda linea
--terza linea
-hello 4
--seconda linea
--terza linea #QUESTI SARANNO I NOSTRI RISULTATI
-
-
-
+#hello 0
+#-seconda linea
+#-terza linea
+#hello 1
+#-seconda linea
+#-terza linea
+#hello 2
+#-seconda linea
+#-terza linea
+#hello 3
+#-seconda linea
+#-terza linea
+#hello 4
+#-seconda linea
+#-terza linea #QUESTI SARANNO I NOSTRI RISULTATI
