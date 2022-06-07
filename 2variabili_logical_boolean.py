@@ -1,7 +1,7 @@
 #integer per numeri interi, in questo caso scopriamo i numeri interi
 
 x=2      #così abbiamo assegnato a x il valore 2
-type(x)  #qui chiediamo a python che tipo di valore è x
+type(x)  #qui chiediamo a python che tipo di valore è "x"
 int      #lui ci restituisce il valore int quindi interer (intero)
 
 
