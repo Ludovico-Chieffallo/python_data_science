@@ -13,7 +13,7 @@ executable code4
 
 #vediamo un esempio pratico
 while False:
-  print("hello") #non stamperà nulla poichè la condiizone è falsa
+  print("hello") #non stamperà nulla poichè la condiizone è falsa!
   
 while true:
   print("hello") #stamperà ciclicamente hello
