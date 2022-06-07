@@ -22,7 +22,7 @@ for numero in range(11):     #for è il ciclo, "numero" è un nome assegnato in 
 #ANALIZZIAMO MEGLIO FUNZIONE "RANGE"
 #Perchè abbiamo scritto 11 per avere i valori fino a 10? perchè range inizia a contare da 0, quindi avremo 11 valori che arrivano a 10
 #Con la funzione range possiamo gestire 3 parametri (start, stop, step) quindi il punto di inizio, il punto di fine e il passo 
-#andiamo quindi a modificare il precedente codice per usare questi parametri
+#andiamo quindi a modificare il precedente codice per usare questi parametri.
 
 for numero in range(0,11,2):
     print(numero)
