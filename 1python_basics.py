@@ -3,7 +3,7 @@
 a=10
 b=5
 
-#Aritmetica / qui inizieremo a fare qualche qualche operazione
+#Aritmetica / qui inizieremo a fare qualche qualche operazione in più
 
 c=a+b 
 d=b/a
